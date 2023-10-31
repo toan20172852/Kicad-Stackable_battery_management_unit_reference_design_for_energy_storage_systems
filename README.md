@@ -1,0 +1,1 @@
+# Kicad-Stackable_battery_management_unit_reference_design_for_energy_storage_systems
